@@ -1,0 +1,5 @@
+/home/igorsantos/Downloads/WebApplication3/WebApplication3/obj/Release/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/home/igorsantos/Downloads/WebApplication3/WebApplication3/bin/WebApplication3.pdb
+/home/igorsantos/Downloads/WebApplication3/WebApplication3/bin/WebApplication3.dll
+/home/igorsantos/Downloads/WebApplication3/WebApplication3/obj/Release/WebApplication3.dll
+/home/igorsantos/Downloads/WebApplication3/WebApplication3/obj/Release/WebApplication3.pdb
